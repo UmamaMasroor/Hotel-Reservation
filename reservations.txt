@@ -1,0 +1,27 @@
+Room Type: Double Room
+Number of Beds: 1
+Services: Room Service, Tour Booking, Airport Transfer, Gym Access
+Facilities: WiFi, Food
+Payment Method: Debit Card
+Check-in Date: 10
+Check-out Date: 15
+Total Cost: $250.00
+
+Room Type: Double Room
+Number of Beds: 2
+Services: Room Service, Laundry Service, Tour Booking
+Facilities: WiFi, Swimming Pool
+Payment Method: Debit Card
+Check-in Date: 12
+Check-out Date: 15
+Total Cost: $190.00
+
+Room Type: Double Room
+Number of Beds: 5
+Services: Room Service, Laundry Service, Tour Booking
+Facilities: WiFi, Swimming Pool
+Payment Method: Debit Card
+Check-in Date: 12
+Check-out Date: 15
+Total Cost: $220.00
+

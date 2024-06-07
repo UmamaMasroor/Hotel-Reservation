@@ -1,0 +1,27 @@
+First Name: umama
+Last Name: fatima
+Email: uma@gmail.com
+Phone: 12345
+Address: 123abc
+Number of Guests: 4
+ID Number: 1234
+Reservation Number: 1
+
+First Name: umama
+Last Name: fatima
+Email: uma@gmail.com
+Phone: 123456
+Address: 123ab
+Number of Guests: 4
+ID Number: 123
+Reservation Number: 2
+
+First Name: amna
+Last Name: ali
+Email: ali@gmail.com
+Phone: 12345
+Address: 123abc
+Number of Guests: 4
+ID Number: 123
+Reservation Number: 3
+
